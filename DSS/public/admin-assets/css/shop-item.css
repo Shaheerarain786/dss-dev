@@ -1,0 +1,122 @@
+/*!
+ * Start Bootstrap - Shop Item (https://startbootstrap.com/template-overviews/shop-item)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-item/blob/master/LICENSE)
+ */
+body {
+  padding-top:0px;
+      text-align: center;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 20px;
+}
+.tv-bg{
+	border:solid 15px #000;}
+	
+.fixed-top {
+    position: relative;
+    top: 10px;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    margin: 0px 10px;
+
+}
+.tv-bottom{
+	width:40%;
+	height:40px;
+	background:#000;
+	margin:0 auto;
+	    padding-top: 5px;	}
+	
+.tv-line{
+		width:60%;
+	height:15px;
+	background:#fff;
+	margin:0 auto;}
+	
+.bg-dark {
+    background-color: #25476a!important;
+}
+.bg-dark2 {
+	padding:10px 0px;
+    background-color: #25476a!important;
+}
+
+.logo{
+	    display: block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+	color:#fff;
+    font-size: 3.25rem;
+    font-weight: 500;
+    line-height: inherit;
+    white-space: nowrap;
+    text-transform: uppercase;
+    text-align: center;}	
+	
+
+.container {
+    max-width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.list-group {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    margin-top: 25px;
+}
+.list-group-item.active {
+    z-index: 2;
+    color: #fff;
+    background-color: #25476a;
+    border-color: #25476a;
+}
+.list-group-item:first-child {
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+}
+.list-group ul{
+	list-style:none;
+	padding:0px;
+	margin:0px;}
+
+.list-group ul li{
+	    position: relative;
+    display: block;
+    padding: 0px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+	font-size: 20px;
+    line-height: 70px;}	
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 0px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 0px;
+	font-size: 20px;
+    line-height: 60px;
+
+}
+.list-group ul li a{
+	
+    background: #25476a;
+    color: #fff;
+}
+a:hover {
+    color: #0056b3;
+    text-decoration: none;
+}
+			
